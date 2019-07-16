@@ -1,0 +1,97 @@
+/* Add styles for application here */
+
+.mdl-layout__header-row {
+    background: rgb(48, 84, 150) !important;
+}
+
+.mdl-layout__drawer-button {
+    background-color: rgb(48, 84, 150) !important;
+}
+
+.mdl-mini-footer {
+    background-color: rgb(141, 141, 141) !important;
+}
+
+a {
+    color: black !important;
+}
+
+header a {
+    color: white !important;
+}
+
+a:hover {
+    color: plum !important;
+}
+
+.logo {
+    height: 35px;
+    width: 35px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+}
+
+.cart-empty {
+    margin: 0px auto;
+    margin-top: 50px;
+}
+
+.notif {
+    color: green;
+    text-align: center;
+    font-weight: bold;
+}
+
+.favorites-empty {
+    color: gray;
+}
+
+p a {
+    color: rgb(39, 133, 240) !important;
+    font-weight: bold;
+}
+
+.m-100 {
+    margin-top: 100px;
+}
+
+/* Table */
+
+table {
+    margin: 0px auto;
+}
+
+caption {
+    text-align: left;
+    margin-top: 50px;
+}
+
+table th, tr, td {
+    padding: 12px;
+}
+
+table th:first-child, tr:first-child, td:first-child {
+    padding-left: 0px;
+}
+
+thead {
+    font-weight: bold;
+}
+
+/* Basic Styling */
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.font-bold {
+    font-weight: bold;
+}
